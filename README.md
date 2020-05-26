@@ -1,2 +1,5 @@
-# Quick_Start_Basin_Delineation
-This repository presents few examples of Bains or catchment delineation using pysheds
+# Quick Start Basin Delineation
+
+This repository presents few examples for basin/catchment delineation and also river network topology creationg using pysheds.
+
+### The first example is creating a network topology in the area in which is
